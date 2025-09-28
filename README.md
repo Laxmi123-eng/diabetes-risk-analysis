@@ -1,7 +1,7 @@
 
 # Diabetes Risk Analysis
 
-This project analyzes diabetes risk using the Pima Indians Diabetes dataset.
+This project analyzes diabetes risk using Diabetes dataset.
 
 ## Contents
 - **Python (Jupyter Notebook)**: Logistic regression model with EDA, evaluation metrics, ROC curve, and feature importance.
